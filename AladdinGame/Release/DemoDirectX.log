@@ -1,0 +1,267 @@
+﻿  Animation.cpp
+  Camera.cpp
+GameComponents\Camera.cpp(37): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameComponents\Camera.cpp(39): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Game.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+GameComponents\Game.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameComponents\Game.cpp(76): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  GameCollision.cpp
+  GameGlobal.cpp
+  GameMap.cpp
+GameComponents\GameMap.cpp(33): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(42): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(65): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(81): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(82): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(83): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(124): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(133): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(138): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(145): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(151): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(156): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(162): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameComponents\GameMap.cpp(220): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(231): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(243): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(245): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(263): warning C4244: 'argument': conversion from '::size_t' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(268): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameComponents\GameMap.cpp(269): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameComponents\GameMap.cpp(294): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(305): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(317): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(329): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(331): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(349): warning C4244: 'argument': conversion from '::size_t' to 'FLOAT', possible loss of data
+GameComponents\GameMap.cpp(354): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameComponents\GameMap.cpp(355): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameComponents\GameMap.cpp(372): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(377): warning C4018: '<': signed/unsigned mismatch
+GameComponents\GameMap.cpp(309): warning C4101: 'sourceRECT': unreferenced local variable
+  GameTime.cpp
+  QuadTree.cpp
+  Scene.cpp
+  Sprite.cpp
+GameComponents\Sprite.cpp(22): warning C4101: 'result': unreferenced local variable
+  UI.cpp
+GameComponents\UI.cpp(69): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\UI.cpp(70): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+GameComponents\UI.cpp(78): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+GameComponents\UI.cpp(79): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+GameComponents\UI.cpp(87): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  SceneManager.cpp
+  Apple.cpp
+GameObjects\Apple\Apple.cpp(231): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Apple\Apple.cpp(232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Apple\Apple.cpp(241): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Apple\Apple.cpp(242): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Apple\Apple.cpp(279): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Apple\Apple.cpp(280): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Apple\Apple.cpp(281): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Apple\Apple.cpp(282): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  AppleBreakState.cpp
+  AppleFlyState.cpp
+  AppleState.cpp
+  Enemy1.cpp
+GameObjects\Enemy\Enemy1\Enemy1.cpp(169): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(171): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(172): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(176): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(178): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(179): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(211): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(233): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy1\Enemy1.cpp(236): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy1\Enemy1.cpp(244): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(245): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy1\Enemy1.cpp(256): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Enemy1Attacked.cpp
+  Enemy1Data.cpp
+  Enemy1Die.cpp
+  Compiling...
+  Enemy1Fighting.cpp
+  Enemy1Running.cpp
+  Enemy1State.cpp
+  Enemy2.cpp
+GameObjects\Enemy\Enemy2\Enemy2.cpp(172): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(174): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(175): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(179): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(181): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(182): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(213): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(214): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(245): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy2\Enemy2.cpp(248): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy2\Enemy2.cpp(256): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(257): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy2\Enemy2.cpp(268): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Enemy2Attacked.cpp
+  Enemy2Data.cpp
+  Enemy2Die.cpp
+  Enemy2Fighting.cpp
+  Enemy2Running.cpp
+  Enemy2State.cpp
+  Enemy3.cpp
+GameObjects\Enemy\Enemy3\Enemy3.cpp(198): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(200): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(201): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(205): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(207): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(208): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(240): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(258): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy3\Enemy3.cpp(261): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy3\Enemy3.cpp(269): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(270): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy3\Enemy3.cpp(281): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Enemy3Attacked.cpp
+  Enemy3Data.cpp
+  Enemy3Die.cpp
+  Enemy3Fighting.cpp
+  Enemy3Running.cpp
+  Enemy3State.cpp
+  Enemy4.cpp
+GameObjects\Enemy\Enemy4\Enemy4.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+GameObjects\Enemy\Enemy4\Enemy4.cpp(134): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy4\Enemy4.cpp(137): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Enemy\Enemy4\Enemy4.cpp(144): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy4\Enemy4.cpp(145): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\Enemy\Enemy4\Enemy4.cpp(194): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy4\Enemy4.cpp(196): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Enemy\Enemy4\Enemy4.cpp(197): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Entity.cpp
+GameObjects\Entity.cpp(18): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Entity.cpp(19): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Entity.cpp(20): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Entity.cpp(21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Entity.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Entity.cpp(84): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+GameObjects\Entity.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Entity.cpp(94): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  AppleObject.cpp
+  Compiling...
+  Camel.cpp
+  CayBung.cpp
+GameObjects\MapObject\CayBung.cpp(35): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\MapObject\CayBung.cpp(37): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  CheckPointSite.cpp
+GameObjects\MapObject\CheckPointSite.cpp(40): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\MapObject\CheckPointSite.cpp(42): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  ManThrowBowl.cpp
+GameObjects\MapObject\CivilianThrowBowl\ManThrowBowl.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+GameObjects\MapObject\CivilianThrowBowl\ManThrowBowl.cpp(92): warning C4018: '<': signed/unsigned mismatch
+GameObjects\MapObject\CivilianThrowBowl\ManThrowBowl.cpp(95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameObjects\MapObject\CivilianThrowBowl\ManThrowBowl.cpp(96): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DropBrick.cpp
+  SimpleObject.cpp
+  Player.cpp
+GameObjects\Player\Player.cpp(329): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(330): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(465): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+GameObjects\Player\Player.cpp(507): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Player\Player.cpp(626): warning C4018: '<': signed/unsigned mismatch
+GameObjects\Player\Player.cpp(649): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(651): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(652): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(659): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(661): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(662): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+GameObjects\Player\Player.cpp(728): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameObjects\Player\Player.cpp(729): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayerBung.cpp
+GameObjects\Player\PlayerBung.cpp(117): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  PlayerClimbState.cpp
+  PlayerClimHori.cpp
+GameObjects\Player\PlayerClimHori.cpp(92): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerClimHori.cpp(110): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerClimHori.cpp(123): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  PlayerData.cpp
+  PlayerFallingState.cpp
+GameObjects\Player\PlayerFallingState.cpp(116): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerFallingState.cpp(124): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerFallingState.cpp(150): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  PlayerFighting.cpp
+  PlayerFiredState.cpp
+  PlayerJumpingState.cpp
+GameObjects\Player\PlayerJumpingState.cpp(117): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerJumpingState.cpp(127): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerJumpingState.cpp(141): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  PLayerRevive.cpp
+  PlayerRunningState.cpp
+GameObjects\Player\PlayerRunningState.cpp(95): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerRunningState.cpp(115): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+GameObjects\Player\PlayerRunningState.cpp(129): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  PlayerJumpThrow.cpp
+  PlayerSit.cpp
+  PlayerSitFight.cpp
+  Compiling...
+  PlayerSitThrow.cpp
+  PlayerStandingState.cpp
+  PlayerState.cpp
+  PlayerThrowAppleState.cpp
+  PLayerThrowClimb.cpp
+  main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  base64.cpp
+MapReader\base64.cpp(96): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+MapReader\base64.cpp(113): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  tinyxml2.cpp
+  TmxEllipse.cpp
+  TmxImage.cpp
+  TmxImageLayer.cpp
+  TmxLayer.cpp
+  TmxMap.cpp
+  TmxObject.cpp
+  TmxObjectGroup.cpp
+  TmxPolygon.cpp
+  TmxPolyline.cpp
+  TmxPropertySet.cpp
+MapReader\TmxPropertySet.cpp(87): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TmxTerrain.cpp
+  TmxTerrainArray.cpp
+  Compiling...
+  TmxTile.cpp
+  TmxTileLayer.cpp
+  TmxTileOffset.cpp
+  TmxTileset.cpp
+  TmxUtil.cpp
+  DemoScene.cpp
+Scenes\DemoScene.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scenes\DemoScene.cpp(81): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(85): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(89): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(94): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(102): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(134): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(138): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(144): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scenes\DemoScene.cpp(200): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scenes\DemoScene.cpp(206): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scenes\DemoScene.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scenes\DemoScene.cpp(235): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(260): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(287): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(304): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(331): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(361): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(376): warning C4018: '<': signed/unsigned mismatch
+Scenes\DemoScene.cpp(393): warning C4018: '<': signed/unsigned mismatch
+  DieScene.cpp
+Scenes\DieScene.cpp(51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Scenes\DieScene.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  miniz.c
+  Generating code
+  All 2534 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DemoDirectX.vcxproj -> D:\GameUIT\9.1 - State Machine, Player, Bot\DirectXGame\Release\DemoDirectX.exe
